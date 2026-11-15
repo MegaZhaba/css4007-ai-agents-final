@@ -1,0 +1,46 @@
+[
+ {
+  "id": "bsc-cs",
+  "title": "BSc in Computer Science",
+  "min_credits_per_semester": 12,
+  "max_credits_per_semester": 21,
+  "required_courses": [
+   "CSS 101",
+   "CSS 102",
+   "CSS 201",
+   "CSS 202",
+   "CSS 210",
+   "CSS 220",
+   "CSS 230",
+   "CSS 301",
+   "CSS 310",
+   "MAT 101",
+   "MAT 102",
+   "MAT 201",
+   "MAT 210",
+   "MAT 220",
+   "ENG 101"
+  ],
+  "elective_groups": [
+   {
+    "name": "AI track",
+    "choose": 3,
+    "courses": [
+     "CSS 320",
+     "CSS 330",
+     "CSS 340",
+     "CSS 350",
+     "CSS 4007"
+    ]
+   },
+   {
+    "name": "General electives",
+    "choose": 1,
+    "courses": [
+     "HUM 110",
+     "CSS 240"
+    ]
+   }
+  ]
+ }
+]

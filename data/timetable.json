@@ -1,0 +1,300 @@
+[
+ {
+  "id": "CSS101-A",
+  "course": "CSS 101",
+  "semester": "Spring 2027",
+  "days": [
+   "Mon",
+   "Wed"
+  ],
+  "start": "09:00",
+  "end": "10:15",
+  "capacity": 60,
+  "enrolled": 41
+ },
+ {
+  "id": "CSS102-A",
+  "course": "CSS 102",
+  "semester": "Spring 2027",
+  "days": [
+   "Tue",
+   "Thu"
+  ],
+  "start": "09:00",
+  "end": "10:15",
+  "capacity": 50,
+  "enrolled": 50
+ },
+ {
+  "id": "CSS102-B",
+  "course": "CSS 102",
+  "semester": "Spring 2027",
+  "days": [
+   "Mon",
+   "Wed"
+  ],
+  "start": "13:00",
+  "end": "14:15",
+  "capacity": 50,
+  "enrolled": 32
+ },
+ {
+  "id": "CSS201-A",
+  "course": "CSS 201",
+  "semester": "Spring 2027",
+  "days": [
+   "Mon",
+   "Wed"
+  ],
+  "start": "10:30",
+  "end": "11:45",
+  "capacity": 45,
+  "enrolled": 40
+ },
+ {
+  "id": "CSS201-B",
+  "course": "CSS 201",
+  "semester": "Spring 2027",
+  "days": [
+   "Tue",
+   "Thu"
+  ],
+  "start": "16:00",
+  "end": "17:15",
+  "capacity": 45,
+  "enrolled": 18
+ },
+ {
+  "id": "CSS202-A",
+  "course": "CSS 202",
+  "semester": "Spring 2027",
+  "days": [
+   "Tue",
+   "Thu"
+  ],
+  "start": "13:00",
+  "end": "14:15",
+  "capacity": 40,
+  "enrolled": 29
+ },
+ {
+  "id": "CSS210-A",
+  "course": "CSS 210",
+  "semester": "Spring 2027",
+  "days": [
+   "Mon",
+   "Wed"
+  ],
+  "start": "14:30",
+  "end": "15:45",
+  "capacity": 45,
+  "enrolled": 33
+ },
+ {
+  "id": "CSS230-A",
+  "course": "CSS 230",
+  "semester": "Spring 2027",
+  "days": [
+   "Mon",
+   "Wed"
+  ],
+  "start": "13:00",
+  "end": "14:15",
+  "capacity": 40,
+  "enrolled": 26
+ },
+ {
+  "id": "CSS240-A",
+  "course": "CSS 240",
+  "semester": "Spring 2027",
+  "days": [
+   "Fri"
+  ],
+  "start": "13:00",
+  "end": "15:45",
+  "capacity": 35,
+  "enrolled": 20
+ },
+ {
+  "id": "CSS301-A",
+  "course": "CSS 301",
+  "semester": "Spring 2027",
+  "days": [
+   "Tue",
+   "Thu"
+  ],
+  "start": "09:00",
+  "end": "10:15",
+  "capacity": 40,
+  "enrolled": 31
+ },
+ {
+  "id": "CSS320-A",
+  "course": "CSS 320",
+  "semester": "Spring 2027",
+  "days": [
+   "Tue",
+   "Thu"
+  ],
+  "start": "10:30",
+  "end": "11:45",
+  "capacity": 35,
+  "enrolled": 34
+ },
+ {
+  "id": "CSS350-A",
+  "course": "CSS 350",
+  "semester": "Spring 2027",
+  "days": [
+   "Mon",
+   "Wed"
+  ],
+  "start": "16:00",
+  "end": "17:15",
+  "capacity": 30,
+  "enrolled": 12
+ },
+ {
+  "id": "CSS4007-A",
+  "course": "CSS 4007",
+  "semester": "Spring 2027",
+  "days": [
+   "Mon",
+   "Wed"
+  ],
+  "start": "10:30",
+  "end": "11:45",
+  "capacity": 40,
+  "enrolled": 36
+ },
+ {
+  "id": "CSS4007-B",
+  "course": "CSS 4007",
+  "semester": "Spring 2027",
+  "days": [
+   "Tue",
+   "Thu"
+  ],
+  "start": "14:30",
+  "end": "15:45",
+  "capacity": 40,
+  "enrolled": 22
+ },
+ {
+  "id": "MAT101-A",
+  "course": "MAT 101",
+  "semester": "Spring 2027",
+  "days": [
+   "Mon",
+   "Wed",
+   "Fri"
+  ],
+  "start": "08:30",
+  "end": "09:20",
+  "capacity": 80,
+  "enrolled": 55
+ },
+ {
+  "id": "MAT102-A",
+  "course": "MAT 102",
+  "semester": "Spring 2027",
+  "days": [
+   "Mon",
+   "Wed",
+   "Fri"
+  ],
+  "start": "10:30",
+  "end": "11:20",
+  "capacity": 70,
+  "enrolled": 48
+ },
+ {
+  "id": "MAT201-A",
+  "course": "MAT 201",
+  "semester": "Spring 2027",
+  "days": [
+   "Tue",
+   "Thu"
+  ],
+  "start": "13:00",
+  "end": "14:15",
+  "capacity": 45,
+  "enrolled": 30
+ },
+ {
+  "id": "MAT201-B",
+  "course": "MAT 201",
+  "semester": "Spring 2027",
+  "days": [
+   "Mon",
+   "Wed"
+  ],
+  "start": "10:30",
+  "end": "11:45",
+  "capacity": 45,
+  "enrolled": 44
+ },
+ {
+  "id": "MAT210-A",
+  "course": "MAT 210",
+  "semester": "Spring 2027",
+  "days": [
+   "Tue",
+   "Thu"
+  ],
+  "start": "14:30",
+  "end": "15:45",
+  "capacity": 60,
+  "enrolled": 37
+ },
+ {
+  "id": "MAT220-A",
+  "course": "MAT 220",
+  "semester": "Spring 2027",
+  "days": [
+   "Mon",
+   "Wed"
+  ],
+  "start": "08:30",
+  "end": "09:45",
+  "capacity": 50,
+  "enrolled": 21
+ },
+ {
+  "id": "MAT220-B",
+  "course": "MAT 220",
+  "semester": "Spring 2027",
+  "days": [
+   "Tue",
+   "Thu"
+  ],
+  "start": "10:30",
+  "end": "11:45",
+  "capacity": 50,
+  "enrolled": 49
+ },
+ {
+  "id": "ENG101-A",
+  "course": "ENG 101",
+  "semester": "Spring 2027",
+  "days": [
+   "Fri"
+  ],
+  "start": "09:00",
+  "end": "11:45",
+  "capacity": 60,
+  "enrolled": 25
+ },
+ {
+  "id": "HUM110-A",
+  "course": "HUM 110",
+  "semester": "Spring 2027",
+  "days": [
+   "Wed"
+  ],
+  "start": "17:30",
+  "end": "20:15",
+  "capacity": 80,
+  "enrolled": 40
+ }
+]

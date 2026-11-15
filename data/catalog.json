@@ -1,0 +1,362 @@
+[
+ {
+  "code": "CSS 101",
+  "title": "Introduction to Programming",
+  "credits": 4,
+  "prerequisites": [],
+  "semesters_offered": [
+   "Fall",
+   "Spring"
+  ],
+  "tags": [
+   "core",
+   "programming"
+  ],
+  "description": "Variables, control flow, functions and basic problem solving in Python."
+ },
+ {
+  "code": "CSS 102",
+  "title": "Object-Oriented Programming",
+  "credits": 4,
+  "prerequisites": [
+   "CSS 101"
+  ],
+  "semesters_offered": [
+   "Fall",
+   "Spring"
+  ],
+  "tags": [
+   "core",
+   "programming"
+  ],
+  "description": "Classes, inheritance, interfaces and unit testing."
+ },
+ {
+  "code": "CSS 201",
+  "title": "Data Structures",
+  "credits": 4,
+  "prerequisites": [
+   "CSS 102"
+  ],
+  "semesters_offered": [
+   "Fall",
+   "Spring"
+  ],
+  "tags": [
+   "core",
+   "programming"
+  ],
+  "description": "Lists, trees, hash tables, graphs and their complexity."
+ },
+ {
+  "code": "CSS 202",
+  "title": "Algorithms",
+  "credits": 4,
+  "prerequisites": [
+   "CSS 201",
+   "MAT 210"
+  ],
+  "semesters_offered": [
+   "Spring"
+  ],
+  "tags": [
+   "core",
+   "theory"
+  ],
+  "description": "Algorithm design techniques, sorting, graph algorithms, dynamic programming."
+ },
+ {
+  "code": "CSS 210",
+  "title": "Databases",
+  "credits": 3,
+  "prerequisites": [
+   "CSS 102"
+  ],
+  "semesters_offered": [
+   "Fall",
+   "Spring"
+  ],
+  "tags": [
+   "core",
+   "data"
+  ],
+  "description": "Relational model, SQL, normalization and transactions."
+ },
+ {
+  "code": "CSS 220",
+  "title": "Computer Architecture",
+  "credits": 3,
+  "prerequisites": [
+   "CSS 101"
+  ],
+  "semesters_offered": [
+   "Fall"
+  ],
+  "tags": [
+   "core",
+   "systems"
+  ],
+  "description": "Digital logic, assembly language, memory hierarchy."
+ },
+ {
+  "code": "CSS 230",
+  "title": "Operating Systems",
+  "credits": 3,
+  "prerequisites": [
+   "CSS 201",
+   "CSS 220"
+  ],
+  "semesters_offered": [
+   "Spring"
+  ],
+  "tags": [
+   "core",
+   "systems"
+  ],
+  "description": "Processes, scheduling, memory management, file systems."
+ },
+ {
+  "code": "CSS 240",
+  "title": "Web Development",
+  "credits": 3,
+  "prerequisites": [
+   "CSS 102"
+  ],
+  "semesters_offered": [
+   "Fall",
+   "Spring"
+  ],
+  "tags": [
+   "elective",
+   "programming"
+  ],
+  "description": "HTTP, front-end basics and server-side applications."
+ },
+ {
+  "code": "CSS 301",
+  "title": "Software Engineering",
+  "credits": 3,
+  "prerequisites": [
+   "CSS 201"
+  ],
+  "semesters_offered": [
+   "Fall",
+   "Spring"
+  ],
+  "tags": [
+   "core",
+   "programming"
+  ],
+  "description": "Requirements, design, testing and team software projects."
+ },
+ {
+  "code": "CSS 310",
+  "title": "Computer Networks",
+  "credits": 3,
+  "prerequisites": [
+   "CSS 230"
+  ],
+  "semesters_offered": [
+   "Fall"
+  ],
+  "tags": [
+   "core",
+   "systems"
+  ],
+  "description": "Layered network architecture, TCP/IP, routing, application protocols."
+ },
+ {
+  "code": "CSS 320",
+  "title": "Machine Learning",
+  "credits": 3,
+  "prerequisites": [
+   "CSS 201",
+   "MAT 201",
+   "MAT 220"
+  ],
+  "semesters_offered": [
+   "Spring"
+  ],
+  "tags": [
+   "ai",
+   "data"
+  ],
+  "description": "Supervised and unsupervised learning, model evaluation, neural network basics."
+ },
+ {
+  "code": "CSS 330",
+  "title": "Data Mining",
+  "credits": 3,
+  "prerequisites": [
+   "CSS 210",
+   "MAT 220"
+  ],
+  "semesters_offered": [
+   "Fall"
+  ],
+  "tags": [
+   "ai",
+   "data"
+  ],
+  "description": "Association rules, clustering, classification on large data sets."
+ },
+ {
+  "code": "CSS 340",
+  "title": "Natural Language Processing",
+  "credits": 3,
+  "prerequisites": [
+   "CSS 320"
+  ],
+  "semesters_offered": [
+   "Fall"
+  ],
+  "tags": [
+   "ai"
+  ],
+  "description": "Text processing, language models, sequence models and transformers."
+ },
+ {
+  "code": "CSS 350",
+  "title": "Computer Vision",
+  "credits": 3,
+  "prerequisites": [
+   "CSS 320"
+  ],
+  "semesters_offered": [
+   "Spring"
+  ],
+  "tags": [
+   "ai"
+  ],
+  "description": "Image processing, convolutional networks, detection and segmentation."
+ },
+ {
+  "code": "CSS 4007",
+  "title": "Artificial Intelligence",
+  "credits": 3,
+  "prerequisites": [
+   "CSS 202",
+   "MAT 220"
+  ],
+  "semesters_offered": [
+   "Fall",
+   "Spring"
+  ],
+  "tags": [
+   "ai",
+   "theory"
+  ],
+  "description": "Search, knowledge representation, planning, LLMs and AI agents."
+ },
+ {
+  "code": "MAT 101",
+  "title": "Calculus I",
+  "credits": 4,
+  "prerequisites": [],
+  "semesters_offered": [
+   "Fall",
+   "Spring"
+  ],
+  "tags": [
+   "core",
+   "math"
+  ],
+  "description": "Limits, derivatives and integrals of functions of one variable."
+ },
+ {
+  "code": "MAT 102",
+  "title": "Calculus II",
+  "credits": 4,
+  "prerequisites": [
+   "MAT 101"
+  ],
+  "semesters_offered": [
+   "Fall",
+   "Spring"
+  ],
+  "tags": [
+   "core",
+   "math"
+  ],
+  "description": "Integration techniques, series, multivariable basics."
+ },
+ {
+  "code": "MAT 201",
+  "title": "Linear Algebra",
+  "credits": 3,
+  "prerequisites": [
+   "MAT 101"
+  ],
+  "semesters_offered": [
+   "Fall",
+   "Spring"
+  ],
+  "tags": [
+   "core",
+   "math"
+  ],
+  "description": "Vectors, matrices, linear maps, eigenvalues."
+ },
+ {
+  "code": "MAT 210",
+  "title": "Discrete Mathematics",
+  "credits": 3,
+  "prerequisites": [],
+  "semesters_offered": [
+   "Fall",
+   "Spring"
+  ],
+  "tags": [
+   "core",
+   "math",
+   "theory"
+  ],
+  "description": "Logic, proofs, sets, combinatorics, graphs."
+ },
+ {
+  "code": "MAT 220",
+  "title": "Probability and Statistics",
+  "credits": 3,
+  "prerequisites": [
+   "MAT 102"
+  ],
+  "semesters_offered": [
+   "Fall",
+   "Spring"
+  ],
+  "tags": [
+   "core",
+   "math",
+   "data"
+  ],
+  "description": "Random variables, distributions, estimation, hypothesis testing."
+ },
+ {
+  "code": "ENG 101",
+  "title": "Academic English",
+  "credits": 3,
+  "prerequisites": [],
+  "semesters_offered": [
+   "Fall",
+   "Spring"
+  ],
+  "tags": [
+   "general"
+  ],
+  "description": "Academic reading, writing and presentation skills."
+ },
+ {
+  "code": "HUM 110",
+  "title": "Ethics of Technology",
+  "credits": 3,
+  "prerequisites": [],
+  "semesters_offered": [
+   "Fall",
+   "Spring"
+  ],
+  "tags": [
+   "general"
+  ],
+  "description": "Ethical, legal and social questions raised by computing and AI."
+ }
+]

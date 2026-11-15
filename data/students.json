@@ -1,0 +1,206 @@
+[
+ {
+  "id": "s1001",
+  "name": "Aigerim Sadykova",
+  "program": "bsc-cs",
+  "year": 2,
+  "completed": [
+   {
+    "course": "CSS 101",
+    "grade": "A",
+    "semester": "Fall 2025"
+   },
+   {
+    "course": "MAT 101",
+    "grade": "B+",
+    "semester": "Fall 2025"
+   },
+   {
+    "course": "MAT 210",
+    "grade": "B",
+    "semester": "Fall 2025"
+   },
+   {
+    "course": "ENG 101",
+    "grade": "A-",
+    "semester": "Fall 2025"
+   },
+   {
+    "course": "CSS 102",
+    "grade": "A-",
+    "semester": "Spring 2026"
+   },
+   {
+    "course": "MAT 102",
+    "grade": "B",
+    "semester": "Spring 2026"
+   },
+   {
+    "course": "HUM 110",
+    "grade": "A",
+    "semester": "Spring 2026"
+   },
+   {
+    "course": "CSS 201",
+    "grade": "B+",
+    "semester": "Fall 2026"
+   },
+   {
+    "course": "CSS 220",
+    "grade": "B",
+    "semester": "Fall 2026"
+   },
+   {
+    "course": "MAT 201",
+    "grade": "B",
+    "semester": "Fall 2026"
+   }
+  ]
+ },
+ {
+  "id": "s1002",
+  "name": "Daniyar Akhmetov",
+  "program": "bsc-cs",
+  "year": 2,
+  "completed": [
+   {
+    "course": "CSS 101",
+    "grade": "B",
+    "semester": "Fall 2025"
+   },
+   {
+    "course": "MAT 101",
+    "grade": "C+",
+    "semester": "Fall 2025"
+   },
+   {
+    "course": "ENG 101",
+    "grade": "B",
+    "semester": "Fall 2025"
+   },
+   {
+    "course": "CSS 102",
+    "grade": "C",
+    "semester": "Spring 2026"
+   },
+   {
+    "course": "MAT 102",
+    "grade": "C",
+    "semester": "Spring 2026"
+   },
+   {
+    "course": "MAT 210",
+    "grade": "B-",
+    "semester": "Spring 2026"
+   },
+   {
+    "course": "CSS 201",
+    "grade": "F",
+    "semester": "Fall 2026"
+   },
+   {
+    "course": "CSS 220",
+    "grade": "C+",
+    "semester": "Fall 2026"
+   },
+   {
+    "course": "MAT 201",
+    "grade": "C",
+    "semester": "Fall 2026"
+   }
+  ]
+ },
+ {
+  "id": "s1003",
+  "name": "Madina Tulegenova",
+  "program": "bsc-cs",
+  "year": 3,
+  "completed": [
+   {
+    "course": "CSS 101",
+    "grade": "A",
+    "semester": "Fall 2024"
+   },
+   {
+    "course": "MAT 101",
+    "grade": "A-",
+    "semester": "Fall 2024"
+   },
+   {
+    "course": "MAT 210",
+    "grade": "A",
+    "semester": "Fall 2024"
+   },
+   {
+    "course": "ENG 101",
+    "grade": "B+",
+    "semester": "Fall 2024"
+   },
+   {
+    "course": "CSS 102",
+    "grade": "A",
+    "semester": "Spring 2025"
+   },
+   {
+    "course": "MAT 102",
+    "grade": "B+",
+    "semester": "Spring 2025"
+   },
+   {
+    "course": "HUM 110",
+    "grade": "A-",
+    "semester": "Spring 2025"
+   },
+   {
+    "course": "CSS 201",
+    "grade": "A-",
+    "semester": "Fall 2025"
+   },
+   {
+    "course": "CSS 220",
+    "grade": "B+",
+    "semester": "Fall 2025"
+   },
+   {
+    "course": "MAT 201",
+    "grade": "A",
+    "semester": "Fall 2025"
+   },
+   {
+    "course": "MAT 220",
+    "grade": "B+",
+    "semester": "Fall 2025"
+   },
+   {
+    "course": "CSS 202",
+    "grade": "B+",
+    "semester": "Spring 2026"
+   },
+   {
+    "course": "CSS 210",
+    "grade": "A",
+    "semester": "Spring 2026"
+   },
+   {
+    "course": "CSS 230",
+    "grade": "B",
+    "semester": "Spring 2026"
+   },
+   {
+    "course": "CSS 301",
+    "grade": "A-",
+    "semester": "Fall 2026"
+   },
+   {
+    "course": "CSS 310",
+    "grade": "B+",
+    "semester": "Fall 2026"
+   },
+   {
+    "course": "CSS 330",
+    "grade": "A",
+    "semester": "Fall 2026"
+   }
+  ]
+ }
+]

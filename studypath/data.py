@@ -16,8 +16,9 @@ from .config import DATA_DIR
 DAYS = ("Mon", "Tue", "Wed", "Thu", "Fri", "Sat")
 PASSING_GRADES = ("A", "A-", "B+", "B", "B-", "C+", "C", "C-", "D+", "D")
 GRADES = PASSING_GRADES + ("F",)
-TIME_RE = re.compile(r"^([01]\d|2[0-3]):[0-5]\d$")
-SEMESTER_RE = re.compile(r"^(Fall|Spring|Summer) 20\d\d$")
+# \Z, not $: in Python, $ also accepts a newline at the end.
+TIME_RE = re.compile(r"^([01]\d|2[0-3]):[0-5]\d\Z")
+SEMESTER_RE = re.compile(r"^(Fall|Spring|Summer) 20\d\d\Z")
 
 
 class DataError(Exception):

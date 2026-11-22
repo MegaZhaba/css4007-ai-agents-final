@@ -106,6 +106,8 @@ def test_api_failure_is_not_retried_or_hidden():
         ({"min_credits": True}, "min_credits must be an integer"),
         ({"min_credits": 18, "max_credits": 15}, "must not be greater"),
         ({"earliest_start": "10am"}, "earliest_start must be a 24-hour time"),
+        ({"earliest_start": "10:00\n"}, "earliest_start must be a 24-hour time"),
+        ({"semester": "Spring 2027\n"}, "semester must look like"),
         ({"earliest_start": "25:00"}, "earliest_start must be a 24-hour time"),
         ({"earliest_start": "16:00", "latest_end": "12:00"}, "earliest_start must be before latest_end"),
         ({"days_off": ["Funday"]}, "days_off must be a list"),
